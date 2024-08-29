@@ -8,7 +8,11 @@
 - city tablosundaki şehir isimlerinin kaç tanesi 'R' veya r karakteri ile biter?
 
 ### Diğer PostgreSQL sorgularım
-- [Odev_1]([https://github.com/NihatNadir/Odev_1_PostgreSQL]) 
-- [Odev_2]([https://github.com/NihatNadir/Odev_2_PostgreSQL]) 
-- [Odev_3]([https://github.com/NihatNadir/Odev_3_PostgreSQL])
+- [Odev_1]: https://github.com/NihatNadir/Odev_1_PostgreSQL
+- [Odev_2]: https://github.com/NihatNadir/Odev_2_PostgreSQL
+- [Odev_3]: https://github.com/NihatNadir/Odev_3_PostgreSQL
+  
+
+
+
 
